@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/usmanismail/go-messenger/go-auth",
+	"ImportPath": "github.com/tsjfd/go-messenger/go-auth",
 	"GoVersion": "go1.4.2",
 	"Deps": [
 		{
