@@ -3,9 +3,9 @@ package main
 import (
 	"os"
 
+	"github.com/tsjfd/go-messenger/go-auth/app"
+	"github.com/tsjfd/go-messenger/go-auth/logger"
 	"github.com/codegangsta/cli"
-	"github.com/usmanismail/go-messenger/go-auth/app"
-	"github.com/usmanismail/go-messenger/go-auth/logger"
 )
 
 func main() {
